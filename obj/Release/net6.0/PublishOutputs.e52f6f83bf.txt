@@ -1,0 +1,11 @@
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemoAPI.exe
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemoAPI.dll
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemoAPI.deps.json
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemoAPI.runtimeconfig.json
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\JenkinsDemoAPI.pdb
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\phase4\DAY06\WebAppDemo\WebAppDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
